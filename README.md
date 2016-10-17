@@ -5,9 +5,9 @@ https://www.freecodecamp.com/map
 
 ## Specifications
 
-- [ ] HTML & CSS
-- [ ] Responsive design with bootstrap
-- [ ] jQuery
+- [x] HTML & CSS
+- [x] Responsive design with bootstrap
+- [x] jQuery
 - [ ] Basic Javascript
 - [ ] Object Oriented and Functional Programming
 
