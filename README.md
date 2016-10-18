@@ -8,8 +8,8 @@ https://www.freecodecamp.com/map
 - [x] HTML & CSS
 - [x] Responsive design with bootstrap
 - [x] jQuery
-- [ ] Basic Javascript
-- [ ] Object Oriented and Functional Programming
+- [x] Basic Javascript
+- [x] Object Oriented and Functional Programming
 
 ### Required
 
