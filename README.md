@@ -15,7 +15,7 @@ https://www.freecodecamp.com/map
 
 _Do not remove these specs - they are required for all goals_.
 
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ## Quality Rubric
 
