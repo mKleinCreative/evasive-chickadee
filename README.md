@@ -14,7 +14,8 @@ https://www.freecodecamp.com/map
 ## Stretch
 - [x] Basic Algorithms
 - [] Intermediate Algorithms
-- [] Tribute Website
+- [x] Tribute Website
+- [] Elevator game - Level achieved = " "
 
 ### Required
 
