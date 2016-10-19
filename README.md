@@ -11,6 +11,11 @@ https://www.freecodecamp.com/map
 - [x] Basic Javascript
 - [x] Object Oriented and Functional Programming
 
+## Stretch
+- [x] Basic Algorithms
+- [] Intermediate Algorithms
+- [] Tribute Website
+
 ### Required
 
 _Do not remove these specs - they are required for all goals_.
