@@ -1,0 +1,25 @@
+#main-content {
+  padding: 50px 100px 100px 100px;
+  background-color: rgba(0, 0, 0, 0.15);;
+
+}
+#text {
+  background-color: rgba(0, 0, 0, 0.5);
+  color:white;
+}
+
+.jumbotron h1{
+  padding: 50px;
+}
+
+.jumbotron {
+  background-image: url("./images/Fight.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px;
+}
+#fightMe {
+  color: #b30000;
+  background-color: rgba(0, 0, 0, 0.15);
+}
