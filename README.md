@@ -13,9 +13,10 @@ https://www.freecodecamp.com/map
 
 ## Stretch
 - [x] Basic Algorithms
-- [] Intermediate Algorithms
+- [x] Intermediate Algorithms Level 3
+- [x] Random Quote Generator
 - [x] Tribute Website
-- [] Elevator game - Level achieved = " "
+- [x] Elevator game - Level achieved = "17"
 
 ### Required
 
