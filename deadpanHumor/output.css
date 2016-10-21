@@ -1,12 +1,17 @@
 body {
-  background-color: rgba(0,0,0,.3); }
+  background-color: rgb(0,0,0);
+  padding-bottom: 1%;
+ }
 
 img {
   margin-left: 1%;
+  margin-top: 2%;
   zoom: 5%; }
 
 button {
-  margin-left: 45%; }
+  margin-left: 45%;
+  padding-top: 50px;
+ }
 
 img.rotated {
   margin-left: 0%;
@@ -16,53 +21,111 @@ img.rotated {
 .one {
   height: 100%;
   width: 100%;
+  padding-top: 2%;
   min-height: 5%;
   min-width: 5%;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 1px;
   background-color: rgba(0,0,0,.3); }
 
 .two {
   height: 100%;
   width: 100%;
+  padding-top: 2%;
   min-height: 5%;
   min-width: 5%;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 1px;
   background-color: rgba(0,0,0,.3); }
 
 .three {
   height: 100%;
   width: 100%;
+  padding-top: 2%;
   min-height: 5%;
   min-width: 5%;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 1px;
   background-color: rgba(0,0,0,.3); }
 
 .four {
   height: 100%;
   width: 100%;
+  padding-top: 2%;
   min-height: 5%;
   min-width: 5%;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 1px;
   background-color: rgba(0,0,0,.3); }
 
 .five {
   height: 100%;
   width: 100%;
+  padding-top: 2%;
   min-height: 5%;
   min-width: 5%;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 1px;
   background-color: rgba(0,0,0,.3); }
+
+  .six {
+    height: 100%;
+    width: 100%;
+    padding-top: 2%;
+    min-height: 5%;
+    min-width: 5%;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgba(0,0,0,.3); }
+
+    .seven {
+      height: 100%;
+      width: 100%;
+      padding-top: 2%;
+      min-height: 5%;
+      min-width: 5%;
+      border-radius: 100px;
+      border-style: solid;
+      border-width: 1px;
+      background-color: rgba(0,0,0,.3); }
+
+      .eight {
+        height: 100%;
+        width: 100%;
+        padding-top: 8%;
+        min-height: 5%;
+        min-width: 5%;
+        border-radius: 100px;
+        border-style: solid;
+        border-width: 1px;
+        background-color: rgba(0,0,0,.3); }
+
 
 .right {
   text-align: right; }
 
 #main-content {
-  background-color: rgba(0,0,0,.3);
+  background-color: rgba(255,255,255,.3);
   color: white;
-  padding: 20px;
-  margin: 0px 150px 0px 150px;
-  z-index: 100; }
+  /*padding: 10%*/
+  margin: 0px 100px 0px 100px;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  z-index: 10; }
 
 #makeWork {
   margin-top: 50px; }
 
 .quotation {
-  margin: 0px 75px 0px 75px;
+  margin: 20px 75px 0px 75px;
   text-align: center; }
 
 p {
